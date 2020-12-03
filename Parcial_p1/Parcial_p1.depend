@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605987429 source:c:\users\isabel\desktop\verónica\ayed\practica 2do cuatri\parcial_p1\main.cpp
+	<iostream>
+	<string.h>
+
+1606864411 source:c:\users\isabel\desktop\verónica\ayed\2do parcial virtual\parcial_p1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
