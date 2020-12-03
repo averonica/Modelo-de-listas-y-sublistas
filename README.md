@@ -1,2 +1,3 @@
 # Modelo-de-listas-y-sublistas
-Programita que he creado para la verificación de un parcial que he rendido en estas semanas.
+Programa creado con el fin de verificar los ejercicios de un examen tomado en la Universidad Tecnologica Nacional.
+
