@@ -25,4 +25,5 @@ Struct Tipo1
 int lista;
 char dato1[3];
 }
+
 -Arias, Verónica Yanina
