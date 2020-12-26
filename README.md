@@ -1,6 +1,6 @@
 # Modelo-de-listas-y-sublistas
 ## Programa creado con el fin de verificar los ejercicios de un examen tomado en la Universidad Tecnologica Nacional
-Enunciado (Parcial_p1):
+### Enunciado (Parcial_p1):
 ![Sublistas](https://user-images.githubusercontent.com/38114502/103158094-ece58d00-4798-11eb-98d9-34452f1afbaf.png)
 
 Los nodos de la lista principal son de tipo NodoListaTipo1 y los de la lista secundaria son de tipo
@@ -15,7 +15,7 @@ del registro leído con el valor de dato1 del nodo de la lista principal..
 3. Desarrolle un subprograma que dados por parámetros un valor y la lista, elimine el nodo de la lista
 principal que cumpla !strcmp(dato1, valor).
 
-Enunciado (Parcial_p2):
+### Enunciado (Parcial_p2):
 ![Sublistas2](https://user-images.githubusercontent.com/38114502/103158437-a09c4c00-479c-11eb-9889-6071e7832757.png)
 
 
