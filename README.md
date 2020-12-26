@@ -32,4 +32,4 @@ registro leído con el valor de dato1 del nodo de la lista principal..
 listar todos los elementos de la pila haciendo pop de la misma y dejándola vacía.
 
 
-##-Arias, Verónica Yanina
+## -Arias, Verónica Yanina
