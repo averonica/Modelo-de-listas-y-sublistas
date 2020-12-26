@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606835293 source:c:\users\isabel\desktop\verónica\ayed\2do parcial virtual\parcial_p2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
