@@ -1,7 +1,7 @@
 # Modelo-de-listas-y-sublistas
 ## Programa creado con el fin de verificar los ejercicios de un examen tomado en la Universidad Tecnologica Nacional
 Enunciado:
-
+https://raw.githubusercontent.com/averonica/Modelo-de-listas-y-sublistas/rama/master/assets/Sublistas.png
 Los nodos de la lista principal son de tipo NodoListaTipo1 y los de la lista secundaria son de tipo
 NodoListaTipo2.
 1. Utilizando sólo dos punteros: NodoListaTipo1 *paux1 y NodoListaTipo2 *paux2;
